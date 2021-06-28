@@ -1,0 +1,6 @@
+--Que es pwa--
+Aplicacion Web Progresiva
+Es un software que utiliza tecnologias 100% web 
+(HTML, CSS, Javascript) pero a diferiencia
+de una aplicacion web, estas aplicaciones,estan
+destinadas a ser una aplicacion multiplataforma
